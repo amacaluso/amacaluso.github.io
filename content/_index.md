@@ -107,23 +107,14 @@ sections:
           organization_url: https://www.credly.com/badges/48b2f067-b25a-467f-a9bd-1ea216186496?source=linked_in_profile
           title: IBM Certified Associate Developer - Quantum Computation using Qiskit
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.credly.com/badges/f13b0290-a854-4a24-be42-2741c9e0ab00?source=linked_in_profile
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2020-09-01'
+          description: 'This badge earner has gathered a deep level of understanding with Qiskit including circuits, algorithms, simulators, qubits and noise. Through their contributions to the Qiskit and the quantum community, this individual has demonstrated an ability and commitment to educate and influence others by sharing ideas, knowledge and expertise in the field of quantum computing.'
+          icon: IBM
+          organization: IBM
+          organization_url: https://www.credly.com/badges/f13b0290-a854-4a24-be42-2741c9e0ab00?source=linked_in_profile
+          title: Qiskit Advocate
           url: ''
     design:
       columns: '2'
