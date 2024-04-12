@@ -247,7 +247,6 @@ sections:
       address:
         street: Stuhlsatzenhausweg 3
         city: Saarbruecken
-        region: CA
         postcode: '66123'
         country: Germany
         country_code: DE
