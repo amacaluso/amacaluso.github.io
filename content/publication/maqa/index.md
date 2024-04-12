@@ -1,0 +1,16 @@
+---
+title: 'MAQA: a quantum framework for supervised learning'
+authors:
+- Antonio Macaluso
+- Matthias Klusch
+- Stefano Lodi
+- Claudio Sartori
+date: '2023-01-01'
+publishDate: '2024-04-12T14:12:20.627109Z'
+publication_types:
+- article-journal
+publication: '*Quantum Information Processing*'
+doi: doi.org/10.1007/s11128-023-03901-w
+tags:
+- quantum
+---
