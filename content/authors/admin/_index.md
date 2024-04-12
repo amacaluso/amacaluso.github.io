@@ -73,12 +73,12 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: book-open
+        icon: obp
         icon_pack: fas
       - name: Science
         description: ''
         percent: 100
-        icon: ⚛️
+        icon: pubpeer
         icon_pack: fas
       - name: Gym
         description: ''
