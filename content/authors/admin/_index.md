@@ -78,7 +78,7 @@ skills:
       - name: Science
         description: ''
         percent: 100
-        icon: <i class="devicon-electron-original"></i>
+        icon: ⚛️
         icon_pack: fas
       - name: Gym
         description: ''
@@ -94,12 +94,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:antonio.macaluso@dfki.de
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Z2R5HuEAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://orcid.org/my-orcid?orcid=0000-0002-1348-250X
   - icon: github
     icon_pack: fab
     link: https://github.com/macalcubo
