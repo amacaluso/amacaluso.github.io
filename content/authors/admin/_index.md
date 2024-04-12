@@ -74,12 +74,12 @@ skills:
         description: ''
         percent: 80
         icon: obp
-        icon_pack: fas
+        icon_pack: ai
       - name: Science
         description: ''
         percent: 100
         icon: pubpeer
-        icon_pack: fas
+        icon_pack: ai
       - name: Gym
         description: ''
         percent: 80
