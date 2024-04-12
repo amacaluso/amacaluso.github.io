@@ -73,7 +73,7 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: 📚
+        icon: book-open
         icon_pack: fas
       - name: Science
         description: ''
