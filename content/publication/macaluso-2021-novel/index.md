@@ -1,7 +1,7 @@
 ---
 title: A Novel Framework for Quantum Machine Learning
 authors:
-- \textbfAntonio Macaluso
+- Antonio Macaluso
 date: '2021-05-01'
 publishDate: '2024-04-12T14:12:20.698422Z'
 publication_types:

@@ -10,7 +10,7 @@ authors:
 - F Verrecchia
 - M Tavani
 - D Beneventano
-- \textbfA \textbfMacaluso
+- A Macaluso
 date: '2021-01-01'
 publishDate: '2024-04-12T14:12:20.711511Z'
 publication_types:

@@ -5,13 +5,13 @@ authors:
 - N Parmiggiani
 - A Bulgarelli
 - A Ursi
-- \textbfA \textbfMacaluso
+- A Macaluso
 - A Di Piano
 - Valentina Fioretti
 - A Aboudan
 - L Baroncelli
 - A Addis
-- Marco Tavani
+- M Tavani
 - ' others'
 date: '2023-01-01'
 publishDate: '2024-04-12T14:12:20.718015Z'

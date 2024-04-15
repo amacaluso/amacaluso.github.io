@@ -65,7 +65,7 @@ sections:
         - title: Senior Researcher
           company: German Research Center for Artificial Intelligence (DFKI)
           company_url: ''
-          company_logo: org-gc
+          company_logo: <img src="DFKI.png" alt="isolated" width="200"/> #org-gc
           location: Germany
           date_start: '2021-08-01'
           date_end: ''
