@@ -200,7 +200,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: macaluso-2021-novel
+    id: publication
     content:
       title: Featured Publication
       filters:
@@ -234,11 +234,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
