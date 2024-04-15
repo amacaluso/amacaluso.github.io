@@ -1,5 +1,5 @@
 ---
-title: Quantum Machine Learning Seminar for NP-hard Problems and AI
+title: Quantum Machine Learning Seminar
 date: '2023-11-04'
 summary: This course adopts a computer science perspective on Quantum Artificial Intelligence and is intended for PhD's students with no prior knowledge of quantum mechanics or quantum computing.
 ---
