@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Sentior Researcher in Quantum Artificial Intelligence
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.dfki.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Quantum AI, Quantum Computing, Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-I am Senior Researcher at the German Research Center for Artificial Intelligence (DFKI). My primary research objective revolves around exploring the benefits of quantum algorithms in Artificial Intelligence. Specifically, my focus areas encompass supervised learning, reinforcement learning, multi-agent systems, planning and scheduling. In addition to my research endeavors, I am a lecturer for quantum artificial intelligence courses at Saarland University.
+I am Senior Researcher at the German Research Center for Artificial Intelligence (DFKI). My primary research objective revolves around exploring the benefits of quantum algorithms for computationally hard problems in artificial intelligence. In addition to my research endeavors, I am the lecturer of the quantum artificial intelligence courses at Saarland University.
 {style="text-align: justify;"}
