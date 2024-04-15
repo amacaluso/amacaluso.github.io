@@ -62,27 +62,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Researcher
+          company: German Research Center for Artificial Intelligence (DFKI)
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Germany
+          date_start: '2021-08-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 'Quantum Artificial Intelligence'
     design:
       columns: '2'
   - block: accomplishments
@@ -114,7 +101,7 @@ sections:
           icon: IBM
           organization: IBM
           organization_url: https://www.credly.com/badges/f13b0290-a854-4a24-be42-2741c9e0ab00?source=linked_in_profile
-          title: Qiskit Advocate
+          title: IBM Qiskit Advocate
           url: ''
     design:
       columns: '2'
