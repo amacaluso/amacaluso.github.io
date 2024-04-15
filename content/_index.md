@@ -65,7 +65,7 @@ sections:
         - title: Senior Researcher
           company: German Research Center for Artificial Intelligence (DFKI)
           company_url: ''
-          company_logo: <img src="DFKI.png" alt="isolated" width="200"/> #org-gc
+          company_logo: org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
           location: Germany
           date_start: '2021-08-01'
           date_end: ''
@@ -213,7 +213,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: antonio.macaluso@dfki.de
       phone: +49 681 85775 5242
