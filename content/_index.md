@@ -200,7 +200,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: publication
+    id: featured
     content:
       title: Featured Publication
       filters:
