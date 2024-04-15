@@ -73,17 +73,17 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: obp
-        icon_pack: ai
+        icon: book
+        icon_pack: fas
       - name: Science
         description: ''
         percent: 100
-        icon: pubpeer
+        icon: atom
         icon_pack: ai
       - name: Gym
         description: ''
         percent: 80
-        icon: 🏋
+        icon: bicycle
         icon_pack: fas
 
 # Social/Academic Networking
