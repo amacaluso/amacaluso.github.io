@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: Quantum Artificial Intelligence
 date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+summary: This course adopts a computer science perspective on Quantum Artificial Intelligence and is intended for Master's students with no prior knowledge of quantum mechanics or quantum computing.
 ---
 
 
@@ -9,10 +9,10 @@ summary: Easily blog from Jupyter notebooks!
 
 # Quantum Artificial Intelligence
 
-- **Course Code:** 146584
-- **Duration:** October 2023 - February 2024
+- **Course Code:** 146584 (A.Y. 2023-24), 139530, (A.Y. 2022-23)
+- **Duration:** October 20XX - February 20XX 
 - **Institution:** Saarland Informatics Campus, Saarland University, Germany
-- **Information:** 3 Credit Points, 26 hours, A.Y. 2023-24, Course evaluation
+- **Information:** 3 Credit Points, 26 hours, A.Y. 2023-24
 
 ## Course Synopsis
 
