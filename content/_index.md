@@ -67,8 +67,16 @@ sections:
           company_url: ''
           company_logo: DFKI #org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
           location: Germany
-          date_start: '2021-08-01'
+          date_start: '2022-04-01'
           date_end: ''
+          description: 'Quantum Artificial Intelligence'
+        - title: Researcher
+          company: German Research Center for Artificial Intelligence (DFKI)
+          company_url: ''
+          company_logo: DFKI #org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
+          location: Germany
+          date_start: '2022-08-01'
+          date_end: '2022-03-31'
           description: 'Quantum Artificial Intelligence'
     design:
       columns: '2'
@@ -89,7 +97,7 @@ sections:
           date_end: ''
           date_start: '2021-12-21'
           description: 'An IBM Qiskit Developer is an individual who understands fundamental quantum computing concepts and is able to express them using the Qiskit open source software development kit (SDK). They have experience using the Qiskit SDK from the Python programming language to create and execute quantum computing programs on IBM Quantum computers and simulators. This individual is able to perform these tasks with little to no assistance from product'
-          icon: IBM
+          icon: ibm
           organization: IBM
           organization_url: https://www.credly.com/badges/48b2f067-b25a-467f-a9bd-1ea216186496?source=linked_in_profile
           title: IBM Certified Associate Developer - Quantum Computation using Qiskit
@@ -98,7 +106,7 @@ sections:
           date_end: ''
           date_start: '2020-09-01'
           description: 'This badge earner has gathered a deep level of understanding with Qiskit including circuits, algorithms, simulators, qubits and noise. Through their contributions to the Qiskit and the quantum community, this individual has demonstrated an ability and commitment to educate and influence others by sharing ideas, knowledge and expertise in the field of quantum computing.'
-          icon: IBM
+          icon: ibm
           organization: IBM
           organization_url: https://www.credly.com/badges/f13b0290-a854-4a24-be42-2741c9e0ab00?source=linked_in_profile
           title: IBM Qiskit Advocate
@@ -108,7 +116,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Teaching
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
