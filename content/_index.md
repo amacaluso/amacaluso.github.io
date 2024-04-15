@@ -69,7 +69,7 @@ sections:
           location: Germany
           date_start: '2022-04-01'
           date_end: ''
-          description: 'Quantum Artificial Intelligence'
+          description: 'Lead of the Quantum AI research unit in the IS2 team of the Agent and Simulated Reality Department (DFKI).'
         - title: Researcher
           company: German Research Center for Artificial Intelligence (DFKI)
           company_url: ''
@@ -77,7 +77,7 @@ sections:
           location: Germany
           date_start: '2022-08-01'
           date_end: '2022-03-31'
-          description: 'Quantum Artificial Intelligence'
+          description: 'Research on Quantum Artificial Intelligence.'
         - title: Machine Learning Engineer
           company: Menarini Silicon BioSystem
           company_url: ''
@@ -93,7 +93,7 @@ sections:
           location: Italy
           date_start: '2017-11-01'
           date_end: '2020-12-31'
-          description: 'Quantum Computing and Quantum Machine Learning'
+          description: 'Quantum Computing and Quantum Machine Learning.'
         - title: Data Scientist
           company: Cineca
           company_url: ''
@@ -101,7 +101,7 @@ sections:
           location: Italy
           date_start: '2019-06-30'
           date_end: '2026-05-02'
-          description: 'Machine Learning for industry 4.0 applications'
+          description: 'Machine Learning for industry 4.0 applications.'
     design:
       columns: '2'
   - block: accomplishments
@@ -202,7 +202,7 @@ sections:
   - block: collection
     id: macaluso-2021-novel
     content:
-      title: PhD Thesis
+      title: Featured Publication
       filters:
         folders:
           - publication
