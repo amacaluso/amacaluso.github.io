@@ -79,8 +79,8 @@ skills:
         description: ''
         percent: 100
         icon: atom
-        icon_pack: ai
-      - name: Gym
+        icon_pack: fas
+      - name: Biking
         description: ''
         percent: 80
         icon: bicycle
@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Antonio Macaluso is Senior Researcher at the German Research Center for Artificial Intelligence (DFKI). My primary research objective revolves around exploring the benefits of quantum algorithms in Artificial Intelligence. Specifically, my focus areas encompass supervised learning, reinforcement learning, multi-agent systems, planning and scheduling. In addition to my research endeavors, I am a lecturer for quantum machine learning and quantum artificial intelligence courses at Saarland University.
+I am Senior Researcher at the German Research Center for Artificial Intelligence (DFKI). My primary research objective revolves around exploring the benefits of quantum algorithms in Artificial Intelligence. Specifically, my focus areas encompass supervised learning, reinforcement learning, multi-agent systems, planning and scheduling. In addition to my research endeavors, I am a lecturer for quantum artificial intelligence courses at Saarland University.
 {style="text-align: justify;"}
