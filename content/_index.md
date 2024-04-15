@@ -197,13 +197,6 @@ sections:
   - block: collection
     id: talks
     content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      columns: '2'
-#      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -215,9 +208,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-       # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      
       email: antonio.macaluso@dfki.de
       phone: +49 681 85775 5242
       address:
