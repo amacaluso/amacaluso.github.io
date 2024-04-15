@@ -1,4 +1,31 @@
 ---
+title: Quantum Computing for NP-hard Problems and AI
+date: '2023-11-04'
+summary: This course adopts a computer science perspective on Quantum Artificial Intelligence and is intended for PhD's students with no prior knowledge of quantum mechanics or quantum computing.
+---
+
+<!-- Quantum Computing for NP-hard Problems and AI -->
+
+
+
+
+- **Course Code:** 146584
+- **Duration:** October 3-11, 2023
+- **Department:** Dept. of Computer Science and Engineering, University of Bologna, Italy
+- **Information:** 3 Credit Points, 15 hours, A.Y. 2023-24
+
+## Course Synopsis
+
+This course is designed for Ph.D. students with no prior knowledge of quantum computing. 
+
+1. **Fundamental Concepts:** Introduction to gate-based and adiabatic quantum computational models.
+
+2. **Hybrid Quantum-Classical Algorithms:** Description of hybrid quantum-classical algorithms, with a focus on machine learning and combinatorial optimization.
+
+3. **Advantages of Quantum Computing:** Explores the advantages of utilizing quantum computational methods to address computationally hard AI problems.
+
+
+<!-- ---
 title: Welcome to Hugo Blox Builder, the website builder for Hugo
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
@@ -107,4 +134,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license. -->

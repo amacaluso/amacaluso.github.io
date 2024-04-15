@@ -7,7 +7,6 @@ summary: This course adopts a computer science perspective on Quantum Artificial
 
 <!-- Quantum Artificial Intelligence [Cod. 146584] -->
 
-# Quantum Artificial Intelligence
 
 - **Course Code:** 146584 (A.Y. 2023-24), 139530, (A.Y. 2022-23)
 - **Duration:** October 20XX - February 20XX 
