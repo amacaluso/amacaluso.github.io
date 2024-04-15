@@ -17,18 +17,18 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2005-05-27'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['PhD Thesis']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Quantum computation is an emerging computing paradigm with the potential to revolutionise the world of information technology. It leverages the laws of quantum mechanics to endow quantum machines with tremendous computing power, thus enabling the solution of problems impossible to address with classical devices. For this reason, the field is attracting ever-increasing attention from both academic and private sectors, and its full potential is still to be understood. This dissertation investigates how classical machine learning can benefit from quantum computing and provides several contributions to the emerging field of Quantum Machine Learning. The idea is to provide a universal and efficient framework that can reproduce the output of a plethora of classical machine learning algorithms exploiting quantum computation’s advantages. The proposed framework is named Multiple Aggregator Quantum Algorithm (MAQA) due to its capability to combine multiple functions to solve typical supervised learning tasks. Thanks to this property, in its general formulation MAQA can be potentially adopted as the quantum counterpart of all those models falling into the scheme of aggregation of multiple functions. The theoretical design of the quantum algorithm and the corresponding circuit’s implementation are presented. As a second meaningful addition, two practical applications are illustrated; the quantum version of ensemble methods and neural networks. The final contribution addresses the restriction to linear operations imposed by quantum mechanics. The idea is to exploit a quantum transposition of classical Splines to approximate non-linear functions, thus overcoming this limitation and introducing significant advantages in terms of computational complexity theory.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -55,7 +55,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'featured.jpg'
   focal_point: ''
   preview_only: false
 
