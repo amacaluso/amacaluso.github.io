@@ -138,7 +138,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: Teaching #posts
+    id: posts
     content:
       title: Teaching
       subtitle: ''
