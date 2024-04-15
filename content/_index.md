@@ -202,7 +202,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publication
+      title: PhD Thesis
       filters:
         folders:
           - publication
