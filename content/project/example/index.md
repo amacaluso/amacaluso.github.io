@@ -2,7 +2,10 @@
 title: Quantum AI for the Automotive Industry
 summary: The aim of the project is to develop a broad basis of algorithms for AI applications with optimizations on quantum computers.
 tags:
-  - Deep Learning
+  - Quantum AI
+  - Artificial Intelligence 
+  - Automotive Industry
+  - Quantum Computing
 date: '2024-03-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
