@@ -138,7 +138,6 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: featured
     content:
       title: PhD Thesis
       filters:
@@ -149,6 +148,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
