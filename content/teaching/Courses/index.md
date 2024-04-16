@@ -1,5 +1,5 @@
 ---
-title: Quantum Computing and Quantum AI Courses
+title: University Courses - Quantum Computing and Quantum AI 
 date: '2023-02-09'
 summary: List of courses taught at Saarland University and the University of Bologna for Master's and Ph.D. students with no prior knowledge of quantum mechanics or quantum computing.
 ---
