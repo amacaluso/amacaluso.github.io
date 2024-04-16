@@ -9,7 +9,7 @@ publishDate: '2024-04-12T14:12:20.667225Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Computational Science*'
-doi: doi.org/10.1007/978-3-031-36030-5_11
+doi: 10.1007/978-3-031-36030-5_11
 tags:
 - quantum
 ---

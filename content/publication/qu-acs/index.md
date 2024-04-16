@@ -10,7 +10,7 @@ publishDate: '2024-04-12T14:12:20.679846Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 20th ACM International Conference on Computing Frontiers*'
-doi: doi.org/10.1145/3587135.3592192
+doi: 10.1145/3587135.3592192
 tags:
 - Quantum Computing
 - Quantum AI
