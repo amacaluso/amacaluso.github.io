@@ -142,7 +142,7 @@ sections:
     content:
       title: Teaching
       subtitle: ''
-      text: ''
+      text: 'here the list of student I supervised'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
