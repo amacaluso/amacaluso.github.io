@@ -1,7 +1,7 @@
 ---
-title: Quantum Computing for NP-hard Problems and AI
-date: '2023-11-04'
-summary: This course adopts a computer science perspective on Quantum Artificial Intelligence and is intended for PhD's students with no prior knowledge of quantum mechanics or quantum computing.
+title: Quantum Theses 
+date: '2023-03-31'
+summary:List of co-supervised Master's theses exploring quantum computing and AI applications.
 ---
 # Co-Supervision of Graduate Students
 
