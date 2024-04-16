@@ -53,12 +53,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -72,17 +72,17 @@ skills:
     items:
       - name: Reading
         description: ''
-        percent: 80
+        percent: 90
         icon: book
         icon_pack: fas
       - name: Science
         description: ''
-        percent: 100
+        percent: 80
         icon: atom
         icon_pack: fas
       - name: Biking
         description: ''
-        percent: 80
+        percent: 70
         icon: bicycle
         icon_pack: fas
 
@@ -94,6 +94,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:antonio.macaluso@dfki.de
+  - icon: orcid # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1348-250X
+  - icon: researchgate # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Antonio-Macaluso
   - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Z2R5HuEAAAAJ&view_op=list_works&sortby=pubdate
