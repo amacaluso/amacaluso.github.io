@@ -6,15 +6,15 @@ tags:
 date: '2019-10-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.agendadigitale.eu/cultura-digitale/machine-learning-cose-e-come-funziona/'
+external_link: 'https://www.agendadigitale.eu/scuola-digitale/il-machine-learning-contro-labbandono-universitario-ecco-come-funziona/'
 
 image:
   #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
+  - icon: file-alt
+    icon_pack: far
     name: Original Article
     url: https://www.agendadigitale.eu/scuola-digitale/il-machine-learning-contro-labbandono-universitario-ecco-come-funziona/
 url_code: ''

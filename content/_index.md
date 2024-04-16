@@ -85,7 +85,7 @@ sections:
           location: Italy
           date_start: '2021-01-01'
           date_end: '2022-07-31'
-          description: 'Designing and testing advanced deep learning algorithms for in vitro diagnostic (IVD) medical devices'
+          description: 'Menarini Silicon Biosystems offers unique rare cell technologies in the study of cells and their molecular characterization. As a machine learning software engineer I worked on designing and testing advanced deep learning algorithms for in vitro diagnostic (IVD) medical devices.'
         - title: PhD Student
           company: University of Bologna
           company_url: ''

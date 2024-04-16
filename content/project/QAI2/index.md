@@ -16,8 +16,8 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
+  - icon: link
+    icon_pack: fas
     name: Follow
     url: https://qai2.de/
 url_code: ''
