@@ -85,7 +85,7 @@ sections:
           location: Italy
           date_start: '2021-01-01'
           date_end: '2022-07-31'
-          description: 'Machine Learning for data analysis of in vitro diagnostic medical devices.'
+          description: 'Designing and testing advanced deep learning algorithms for in vitro diagnostic (IVD) medical devices'
         - title: PhD Student
           company: University of Bologna
           company_url: ''
@@ -101,7 +101,7 @@ sections:
           location: Italy
           date_start: '2019-06-30'
           date_end: '2026-05-02'
-          description: 'Machine Learning for industry 4.0 applications.'
+          description: '"Developing and deploying machine learning solutions for predicting university student dropout rates (Dissemination article), and monitoring and predicting train faults utilizing HPC infrastructure'
     design:
       columns: '2'
   - block: accomplishments

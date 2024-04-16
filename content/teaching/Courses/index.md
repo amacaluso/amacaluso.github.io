@@ -1,7 +1,7 @@
 ---
 title: University Courses - Quantum Computing and Quantum AI 
 date: '2023-02-09'
-summary: List of courses taught at Saarland University and the University of Bologna for Master's and Ph.D. students with no prior knowledge of quantum mechanics or quantum computing.
+summary: List of courses taught at Saarland University and the University of Bologna for Master and Ph.D. students with no prior knowledge of quantum mechanics or quantum computing.
 ---
 
 ## Quantum Artificial Intelligence [Cod. 146584]
@@ -22,14 +22,14 @@ summary: List of courses taught at Saarland University and the University of Bol
 - **Information:** 3 Credit Points, 26 hours, A.Y. 2022-23, Course evaluation
 - **Synopsis:** This course adopts a computer science perspective on Quantum Artificial Intelligence and consists of two parts. The first part briefly introduces the fundamentals of quantum computation, including gate-based and adiabatic quantum computational models. The second part explores the feasibility and potential advantages of using quantum computational methods to address specific AI problems, emphasizing machine learning and optimization.
 
-## Lecturer - Quantum Machine Learning Seminar [Cod. 136315]
+## Quantum Machine Learning Seminar [Cod. 136315]
 - **Institution:** Saarland Informatics Campus, Saarland University, Germany
 - **Duration:** April 2022 - July 2022
 - **Information:** 7 Credit Points, 16 hours, A.Y. 2023-24
 - **Synopsis:** This course on Quantum Machine Learning aims to show what benefits quantum technologies can provide to the area of machine learning. While machine learning algorithms are used to compute massive amounts of data, quantum machine learning employs qubits and quantum operations to improve computational speed and data storage. A closer look at selected methods in the context of quantum machine learning will be taken with a particular focus on hybrid quantum-classical algorithms for supervised learning and reinforcement learning.
 
 
-- **Lecturer - [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/)**
+## [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/)
   - **Provider:** Deep Learning Italia, Italy (e-learning platform)
   - **Duration:** June 2021
 
