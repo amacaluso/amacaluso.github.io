@@ -69,7 +69,7 @@ sections:
           location: Germany
           date_start: '2022-04-01'
           date_end: ''
-          description: 'Lead of the Quantum AI research unit in the IS2 team of the Agent and Simulated Reality Department (DFKI).'
+          description: 'Lead of the Quantum AI research unit in the IS2 team of the Agent and Simulated Reality Department (DFKI). Our research unit is committed to investigating the feasibility and potential benefits of quantum algorithms across diverse domains of Artificial Intelligence. In my role as a Senior Researcher, I not only conduct research but also manage complex projects, coordinate workshops and conferences, and play a proactive role in securing funding for new projects.'
         - title: Researcher
           company: German Research Center for Artificial Intelligence (DFKI)
           company_url: ''
@@ -77,7 +77,7 @@ sections:
           location: Germany
           date_start: '2022-08-01'
           date_end: '2022-03-31'
-          description: 'Research on Quantum Artificial Intelligence.'
+          description: 'My research primarily concentrated on developing and implementing various quantum solutions for specific AI challenges, with applications ranging from collision-free navigation of autonomous vehicles to coordinating multi-agent systems and optimizing flexible production processes in Industry 4.0'
         - title: Machine Learning Engineer
           company: Menarini Silicon BioSystem
           company_url: ''
@@ -93,7 +93,7 @@ sections:
           location: Italy
           date_start: '2017-11-01'
           date_end: '2020-12-31'
-          description: 'Quantum Computing and Quantum Machine Learning.'
+          description: 'My dissertation focused on the design and implementation of innovative quantum machine learning algorithms. It offered a dual contribution: a comprehensive quantum framework for supervised learning, and an efficient quantum algorithm for approximating non-linear activation functions.'
         - title: Data Scientist
           company: Cineca
           company_url: ''
@@ -101,7 +101,7 @@ sections:
           location: Italy
           date_start: '2019-06-30'
           date_end: '2026-05-02'
-          description: '"Developing and deploying machine learning solutions for predicting university student dropout rates (Dissemination article), and monitoring and predicting train faults utilizing HPC infrastructure'
+          description: 'Developing and deploying machine learning solutions for predicting university student dropout rates (Dissemination article), and monitoring and predicting train faults utilizing HPC infrastructure'
     design:
       columns: '2'
   - block: accomplishments
