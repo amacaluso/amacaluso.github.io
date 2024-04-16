@@ -138,7 +138,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: teaching
     content:
       title: Teaching
       subtitle: ''
@@ -148,7 +148,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - teaching
         author: ""
         category: ""
         tag: ""
