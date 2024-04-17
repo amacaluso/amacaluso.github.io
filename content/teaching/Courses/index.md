@@ -11,7 +11,7 @@ summary: List of courses taught at Saarland University and the University of Bol
 - **Information:** 3 Credit Points, 26 hours, A.Y. 2023-24, Course evaluation
 - **Synopsis:** This course adopts a computer science perspective on Quantum Artificial Intelligence and consists of two parts. The first part briefly introduces the fundamentals of quantum computation, including gate-based and adiabatic quantum computational models. The second part explores the feasibility and potential advantages of using quantum computational methods to address specific AI problems, emphasizing machine learning and optimization.
 
-## Quantum Computing for NP-hard Problems and AI
+## [Quantum Computing for NP-hard Problems and AI](https://disi.unibo.it/en/teaching/phd-programmes/computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering-a-a-2022-23)
 - **Department:** Dept. of Computer Science and Engineering, University of Bologna, Italy
 - **Duration:** October 3-11, 2023
 - **Information:** 3 Credit Points, 15 hours, A.Y. 2023-24, Syllabus
