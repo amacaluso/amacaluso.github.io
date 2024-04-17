@@ -9,8 +9,11 @@ authors:
 
 # Author notes (optional)
 
-date: '2021-05-27T00:00:00Z'
-doi: ''
+publication_types:
+- thesis
+doi: 10.48676/unibo/amsdottorato/9791
+
+
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2005-05-27'
@@ -18,7 +21,6 @@ doi: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['PhD Thesis']
 
 # Publication name and optional abbreviated publication name.
 publication: In *AlmaDL University of Bologna Digital Library*
@@ -29,7 +31,10 @@ abstract:  This dissertation investigates how classical machine learning can ben
 # Summary. An optional shortened abstract.
 summary: This dissertation introduces the Multiple Aggregator Quantum Algorithm (MAQA), aiming to bridge classical machine learning with quantum computing. MAQA serves as a versatile framework for quantum machine learning, addressing linear operation constraints and offering potential advancements in computational complexity theory.
 
-tags: []
+tags:
+- Quantum Computing
+- Machine Learning
+- Artificial Intelligence
 
 # Display this page in the Featured widget?
 featured: true
@@ -39,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://amsdottorato.unibo.it/9791/2/Antonio_Macaluso_tesi.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -79,4 +84,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+ # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
