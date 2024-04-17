@@ -75,7 +75,7 @@ sections:
           company_url: ''
           company_logo: DFKI #org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
           location: Germany
-          date_start: '2022-08-01'
+          date_start: '2021-08-01'
           date_end: '2022-03-31'
           description: 'My research primarily concentrated on developing and implementing various quantum solutions for specific AI challenges, with applications ranging from collision-free navigation of autonomous vehicles to optimizing flexible production processes in Industry 4.0'
         - title: Machine Learning Engineer
@@ -84,7 +84,7 @@ sections:
           company_logo: Menarini #org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
           location: Italy
           date_start: '2021-01-01'
-          date_end: '2022-07-31'
+          date_end: '2021-07-31'
           description: 'Menarini Silicon Biosystems offers unique rare cell technologies in the study of cells and their molecular characterization. As a machine learning software engineer I worked on designing and testing advanced deep learning algorithms for in vitro diagnostic (IVD) medical devices.'
         - title: PhD Student
           company: University of Bologna
@@ -99,8 +99,8 @@ sections:
           company_url: ''
           company_logo: Cineca #org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
           location: Italy
-          date_start: '2019-06-30'
-          date_end: '2026-05-02'
+          date_start: '2016-05-2'
+          date_end: '2019-06-30'
           description: 'Developing and deploying machine learning solutions for predicting university student dropout rates (Dissemination article), and monitoring and predicting train faults utilizing HPC infrastructure'
     design:
       columns: '2'
