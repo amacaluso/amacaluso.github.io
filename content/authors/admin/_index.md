@@ -105,7 +105,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=Z2R5HuEAAAAJ&view_op=list_works&sortby=pubdate
   - icon: github
     icon_pack: fab
-    link: https://github.com/macalcubo
+    link: https://github.com/amacaluso
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/antonio-macaluso/
