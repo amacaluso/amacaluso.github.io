@@ -2,17 +2,17 @@
 title: A Deep-learning Anomaly-detection Method to Identify Gamma-Ray Bursts in the
   Ratemeters of the AGILE Anticoincidence System
 authors:
-- N Parmiggiani
-- A Bulgarelli
-- A Ursi
-- A Macaluso
-- A Di Piano
+- Nicolò Parmiggiani
+- Andrea Bulgarelli
+- Alessandro Ursi
+- Antonio Macaluso
+- Ambra Di Piano
 - Valentina Fioretti
-- A Aboudan
-- L Baroncelli
-- A Addis
-- M Tavani
-- ' others'
+- Alessio Aboudan
+- Leonardo Baroncelli
+- Antonio Addis
+- Marco Tavani
+- Carlotta Pittori
 date: '2023-01-01'
 publishDate: '2024-04-12T14:12:20.718015Z'
 publication_types:

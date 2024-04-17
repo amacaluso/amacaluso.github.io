@@ -1,16 +1,16 @@
 ---
 title: A deep learning method for AGILE-GRID gamma-ray burst detection
 authors:
-- N Parmiggiani
-- A Bulgarelli
-- V Fioretti
-- A Di Piano
-- A Giuliani
-- F Longo
-- F Verrecchia
-- M Tavani
-- D Beneventano
-- A Macaluso
+- Nicolò Parmiggiani
+- Andrea Bulgarelli
+- Valentina Fioretti
+- Ambra Di Piano
+- Andrea Giuliani
+- Francesco Longo
+- Francesco Verrecchia
+- Marco Tavani
+- Domenico Beneventano
+- Antonio Macaluso
 date: '2021-01-01'
 publishDate: '2024-04-12T14:12:20.711511Z'
 publication_types:
