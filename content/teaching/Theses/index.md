@@ -5,7 +5,6 @@ summary: List of co-supervised Master's theses exploring quantum computing and A
 ---
 
 
-
 List of students under my supervision who have worked on a thesis on quantum artificial intelligence.
 ---
 
