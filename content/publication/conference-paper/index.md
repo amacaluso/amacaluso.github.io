@@ -24,7 +24,7 @@ publication_types: ['PhD Thesis']
 publication: In *AlmaDL University of Bologna Digital Library*
 publication_short: In *AlmaDL*
 
-abstract: Quantum computation is an emerging computing paradigm with the potential to revolutionise the world of information technology. It leverages the laws of quantum mechanics to endow quantum machines with tremendous computing power, thus enabling the solution of problems impossible to address with classical devices. For this reason, the field is attracting ever-increasing attention from both academic and private sectors, and its full potential is still to be understood. This dissertation investigates how classical machine learning can benefit from quantum computing and provides several contributions to the emerging field of Quantum Machine Learning. The idea is to provide a universal and efficient framework that can reproduce the output of a plethora of classical machine learning algorithms exploiting quantum computation’s advantages. The proposed framework is named Multiple Aggregator Quantum Algorithm (MAQA) due to its capability to combine multiple functions to solve typical supervised learning tasks. Thanks to this property, in its general formulation MAQA can be potentially adopted as the quantum counterpart of all those models falling into the scheme of aggregation of multiple functions. The theoretical design of the quantum algorithm and the corresponding circuit’s implementation are presented. As a second meaningful addition, two practical applications are illustrated; the quantum version of ensemble methods and neural networks. The final contribution addresses the restriction to linear operations imposed by quantum mechanics. The idea is to exploit a quantum transposition of classical Splines to approximate non-linear functions, thus overcoming this limitation and introducing significant advantages in terms of computational complexity theory.
+abstract:  This dissertation investigates how classical machine learning can benefit from quantum computing and provides several contributions to the emerging field of Quantum Machine Learning. The idea is to provide a universal and efficient framework that can reproduce the output of a plethora of classical machine learning algorithms exploiting quantum computation’s advantages. The proposed framework is named Multiple Aggregator Quantum Algorithm (MAQA) due to its capability to combine multiple functions to solve typical supervised learning tasks. Thanks to this property, in its general formulation MAQA can be potentially adopted as the quantum counterpart of all those models falling into the scheme of aggregation of multiple functions. The theoretical design of the quantum algorithm and the corresponding circuit’s implementation are presented. As a second meaningful addition, two practical applications are illustrated; the quantum version of ensemble methods and neural networks. The final contribution addresses the restriction to linear operations imposed by quantum mechanics. The idea is to exploit a quantum transposition of classical Splines to approximate non-linear functions, thus overcoming this limitation and introducing significant advantages in terms of computational complexity theory.
 
 # Summary. An optional shortened abstract.
 summary: This dissertation introduces the Multiple Aggregator Quantum Algorithm (MAQA), aiming to bridge classical machine learning with quantum computing. MAQA serves as a versatile framework for quantum machine learning, addressing linear operation constraints and offering potential advancements in computational complexity theory.
@@ -40,13 +40,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

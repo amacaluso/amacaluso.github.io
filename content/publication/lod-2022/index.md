@@ -12,6 +12,14 @@ publication_types:
 - paper-conference
 publication: '*Machine Learning, Optimization, and Data Science*'
 doi: 10.1007/978-3-031-25891-6_26
+url_pdf: ''
+url_code: 'https://github.com/filorazi/qSLP-quantum-Single-Layer-Perceptron'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 tags:
 - quantum
 ---

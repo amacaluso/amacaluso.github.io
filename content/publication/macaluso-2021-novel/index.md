@@ -11,5 +11,4 @@ tags:
 - Quantum Computing
 - Machine Learning
 - Artificial Intelligence
-- quantum
 ---

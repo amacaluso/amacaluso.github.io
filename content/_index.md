@@ -69,7 +69,7 @@ sections:
           location: Germany
           date_start: '2022-04-01'
           date_end: ''
-          description: 'Lead of the Quantum AI research unit in the IS2 team of the Agent and Simulated Reality Department (DFKI). Our research unit is committed to investigating the feasibility and potential benefits of quantum algorithms across diverse domains of Artificial Intelligence. In my role as a Senior Researcher, I not only conduct research but also manage complex projects, coordinate workshops and conferences, and play a proactive role in securing funding for new projects.'
+          description: 'Lead of the Quantum AI research unit in the IS2 team of the Agent and Simulated Reality Department (DFKI). Our research unit is committed to investigating the feasibility and potential benefits of quantum algorithms across diverse domains of Artificial Intelligence.'
         - title: Researcher
           company: German Research Center for Artificial Intelligence (DFKI)
           company_url: ''
@@ -77,7 +77,7 @@ sections:
           location: Germany
           date_start: '2022-08-01'
           date_end: '2022-03-31'
-          description: 'My research primarily concentrated on developing and implementing various quantum solutions for specific AI challenges, with applications ranging from collision-free navigation of autonomous vehicles to coordinating multi-agent systems and optimizing flexible production processes in Industry 4.0'
+          description: 'My research primarily concentrated on developing and implementing various quantum solutions for specific AI challenges, with applications ranging from collision-free navigation of autonomous vehicles to optimizing flexible production processes in Industry 4.0'
         - title: Machine Learning Engineer
           company: Menarini Silicon BioSystem
           company_url: ''
