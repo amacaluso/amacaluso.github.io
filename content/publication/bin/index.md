@@ -2,7 +2,7 @@
 title: 'QAL-BP: an augmented Lagrangian quantum approach for bin packing'
 authors:
 - Lorenzo Cellini
-- Antonio Macaluso
+- **Antonio Macaluso**
 - Michele Lombardi
 date: '2024-01-01'
 publishDate: '2024-04-12T14:12:20.692291Z'
