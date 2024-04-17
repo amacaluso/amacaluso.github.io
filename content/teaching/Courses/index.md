@@ -15,6 +15,7 @@ Please refer to the [official webpage](https://www.dfki.de/~klusch/QAI-course-ws
 
 
 &nbsp;
+---
 
 ## [Quantum Computing for NP-hard Problems and AI](https://disi.unibo.it/en/teaching/phd-programmes/computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering-a-a-2022-23)
 - **Department:** Dept. of Computer Science and Engineering, University of Bologna, Italy
@@ -26,6 +27,7 @@ Please refer to the [official webpage](https://disi.unibo.it/en/teaching/phd-pro
 
 
 &nbsp;
+---
 
 ## [Quantum Artificial Intelligence](https://www.dfki.de/~klusch/QAI-course-ws2223/)
 - **Cod:** 139530
@@ -38,6 +40,7 @@ Please refer to the [official webpage](https://www.dfki.de/~klusch/QAI-course-ws
 
 
 &nbsp;
+---
 
 ## [Quantum Machine Learning Seminar](https://www.dfki.de/~klusch/QML-ss22/) 
 - **Cod:** 136315
@@ -50,6 +53,7 @@ Please refer to the [official webpage](https://www.dfki.de/~klusch/QML-ss22/) fo
 
 
 &nbsp;
+---
 
 ## [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/)
   - **Provider:** Deep Learning Italia, Italy (e-learning platform)
