@@ -12,6 +12,8 @@ publication_types:
 - paper-conference
 publication: '*Computational Science -- ICCS 2023*'
 doi: 10.1007/978-3-031-36030-5_14
+url_pdf: 'https://arxiv.org/pdf/2303.04788.pdf'
+url_code: 'https://github.com/inajetovic/Variational-Quantum-Splines'
 tags:
 - quantum
 ---

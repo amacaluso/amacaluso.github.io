@@ -11,6 +11,8 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 20th ACM International Conference on Computing Frontiers*'
 doi: 10.1145/3587135.3592192
+url_pdf: 'https://arxiv.org/pdf/2304.07218.pdf'
+url_code: 'https://github.com/supreethmv/QuACS'
 tags:
 - Quantum Computing
 - Quantum AI

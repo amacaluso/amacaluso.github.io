@@ -11,6 +11,7 @@ publication_types:
 - article-journal
 publication: '*Quantum Information Processing*'
 doi: 10.1007/s11128-023-03901-w
+url_pdf: 'https://arxiv.org/abs/2303.11028'
 tags:
 - quantum
 ---

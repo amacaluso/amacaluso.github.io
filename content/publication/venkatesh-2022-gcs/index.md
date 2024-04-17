@@ -10,6 +10,8 @@ publication_types:
 - paper-conference
 publication: '*International Conference on Computational Science*'
 doi: 10.1007/978-3-031-36030-5_11
+url_pdf: 'https://arxiv.org/pdf/2212.11372.pdf'
+url_code: 'https://github.com/supreethmv/GCS-Q'
 tags:
 - quantum
 ---

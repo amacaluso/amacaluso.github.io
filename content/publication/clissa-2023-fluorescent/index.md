@@ -19,6 +19,8 @@ publication_types:
 - article-journal
 publication: '*Scientific Data*'
 doi: 10.1038/s41597-024-03005-9
+url_pdf: 'https://www.nature.com/articles/s41597-024-03005-9'
+url_code: 'https://github.com/clissa/fluocells-scientific-data'
 tags:
 - ml
 ---
