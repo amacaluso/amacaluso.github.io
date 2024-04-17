@@ -72,7 +72,7 @@ Lastly, the third approach, QuACS, follows GCS-Q's strategy but employs gate-bas
 ---
 
 ## Matteo Antonio Inajetovic (MSc)
-- **Duration:** February 2021 - July 2022
+- **Duration:** February 2022 - July 2022
 - **Degree:** Master's Degree in Artificial Intelligence, University of Bologna, Italy
 - **Supervisors:** Prof. Claudio Sartori, Dr. Antonio Macaluso
 - **Title:** [Variational Quantum Splines: Moving Beyond Linearity for Quantum Activation Functions](https://amslaurea.unibo.it/26414/)
