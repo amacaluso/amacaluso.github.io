@@ -11,6 +11,13 @@ publication_types:
 - article-journal
 publication: '*IET Quantum Communication*'
 doi: 10.1049/qtc2.12087
+url_code: 'https://github.com/amacaluso/Quantum-Ensemble-for-Classification'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 tags:
 - quantum
 ---
