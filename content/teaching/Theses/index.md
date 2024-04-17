@@ -9,6 +9,8 @@ summary: List of co-supervised Master's theses exploring quantum computing and A
 # Supervision of Graduate Students
 
 I report the list of students under my supervision who have worked on a thesis on quantum artificial intelligence.
+
+&nbsp;
 ---
 
 ## Alessandro Rizzo (MSc)
