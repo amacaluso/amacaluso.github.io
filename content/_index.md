@@ -99,7 +99,7 @@ sections:
           company_url: ''
           company_logo: Cineca #org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
           location: Italy
-          date_start: '2016-05-2'
+          date_start: '2016-05-02'
           date_end: '2019-06-30'
           description: 'Developing and deploying machine learning solutions for predicting university student dropout rates (Dissemination article), and monitoring and predicting train faults utilizing HPC infrastructure'
     design:
