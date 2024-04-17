@@ -14,7 +14,6 @@ summary: List of courses taught at Saarland University and the University of Bol
 Please refer to the [official webpage](https://www.dfki.de/~klusch/QAI-course-ws23/) for further information.
 
 
-&nbsp;
 ---
 
 ## [Quantum Computing for NP-hard Problems and AI](https://disi.unibo.it/en/teaching/phd-programmes/computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering-a-a-2022-23)
@@ -25,8 +24,6 @@ Please refer to the [official webpage](https://www.dfki.de/~klusch/QAI-course-ws
 
 Please refer to the [official webpage](https://disi.unibo.it/en/teaching/phd-programmes/computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering/courses-of-the-phd-program-in-computer-science-and-engineering-a-a-2022-23) for further information.
 
-
-&nbsp;
 ---
 
 ## [Quantum Artificial Intelligence](https://www.dfki.de/~klusch/QAI-course-ws2223/)
@@ -38,8 +35,6 @@ Please refer to the [official webpage](https://disi.unibo.it/en/teaching/phd-pro
 
 Please refer to the [official webpage](https://www.dfki.de/~klusch/QAI-course-ws2223/) for further information.
 
-
-&nbsp;
 ---
 
 ## [Quantum Machine Learning Seminar](https://www.dfki.de/~klusch/QML-ss22/) 
@@ -52,7 +47,6 @@ Please refer to the [official webpage](https://www.dfki.de/~klusch/QAI-course-ws
 Please refer to the [official webpage](https://www.dfki.de/~klusch/QML-ss22/) for further information.
 
 
-&nbsp;
 ---
 
 ## [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/)

@@ -10,7 +10,6 @@ summary: List of co-supervised Master's theses exploring quantum computing and A
 
 I report the list of students under my supervision who have worked on a thesis on quantum artificial intelligence.
 
-&nbsp;
 ---
 
 ## Alessandro Rizzo (MSc)
@@ -23,7 +22,6 @@ I report the list of students under my supervision who have worked on a thesis o
 This master's thesis explores the application of Quantum Convolutional Neural Networks (QCNNs) to the task of particle identification in the field of High Energy Physics (HEP). The study investigates the potential advantages offered by QCNNs in handling complex particle identification challenges, leveraging both quantum computing principles and convolutional neural network architectures. Through experimentation and analysis, the thesis aims to shed light on the efficacy and feasibility of integrating quantum computing into particle identification processes, with implications for advancing the capabilities of HEP experiments and detectors.
 ---
 
-&nbsp;
 
 
 ## Akash Sinha (MSc)
@@ -36,7 +34,6 @@ This master's thesis explores the application of Quantum Convolutional Neural Ne
 Collision-free navigation (CFN) for self-driving cars poses a challenging optimization problem, with notable advancements in approximate solutions using deep reinforcement learning. Quantum computing has gained renewed attention, including within the automotive industry. Quantum reinforcement learning (QRL) techniques show promise for faster training, especially in simplified domains. However, these methods have not yet been applied to real-world CFN scenarios and would typically demand an onboard quantum device for testing. This study explores the feasibility and potential advantages of QRL techniques for CFN in the current NISQ era without necessitating an onboard quantum device. This thesis introduces Nav-Q as the first QRL approach for CFN, outlining its functionality without onboard quantum hardware, and presenting a comparative assessment against classical alternatives.
 ---
 
-&nbsp;
 
 ## Francesco Aldo Venturelli (MSc)
 - **Duration:** February 2023 - December 2023
@@ -48,7 +45,6 @@ Collision-free navigation (CFN) for self-driving cars poses a challenging optimi
 This master's thesis delves into the realm of Quantum Convolutional Neural Networks (QCNNs) and their application to data-efficient image classification tasks. The research explores the potential of QCNNs to significantly enhance the efficiency of image classification models, capitalizing on the synergy between quantum computing principles and convolutional neural network architectures. Through rigorous experimentation and analysis, the thesis aims to demonstrate the advantages of integrating quantum computing techniques into image classification processes, offering promising insights for data-efficient and accurate image recognition systems.
 ---
 
-&nbsp;
 
 
 ## Lorenzo Cellini (MSc)
@@ -63,7 +59,6 @@ We evaluate our method on bin-packing instances using a real Quantum Annealing d
 As a result of the thesis, a journal paper has been published to *Scientific Reports*.
 ---
 
-&nbsp;
 
 
 ## Supreeth Mysore Venkatesh (MSc)
@@ -79,7 +74,6 @@ The second proposed method, GCS-Q, addresses CSG in Induced Subgraph Games using
 Lastly, the third approach, QuACS, follows GCS-Q's strategy but employs gate-based quantum computation.
 ---
 
-&nbsp;
 
 
 ## Matteo Antonio Inajetovic (MSc)
@@ -93,7 +87,6 @@ Activation functions play a crucial role in neural networks since they allow the
 The idea of Variational QSplines proposed in the thesis has been published as a conference paper.
 ---
 
-&nbsp;
 
 
 ## Filippo Orazi (MSc)
@@ -106,7 +99,6 @@ The idea of Variational QSplines proposed in the thesis has been published as a 
 This thesis extends and implements the generalized version of the quantum Single Layer Perceptron (qSLP) using the Multiple Aggregator Quantum Algorithm. In particular, this work proposes the generalized qSLP to generate an exponentially large number of parametrized linear combinations in superposition that can be learned using quantum-classical optimization. As a consequence, the number of hidden neurons scales exponentially with the number of qubits and, thanks to the universal approximation theorem, our algorithm opens the possibility of approximating any function on quantum computers.  Experiments show that the proposed generalized qSLP outperforms the existing full quantum machine learning model already implemented in the IBM Qiskit framework on standard benchmark datasets.
 ---
 
-&nbsp;
 
 
 
