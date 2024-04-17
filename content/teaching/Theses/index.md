@@ -19,11 +19,10 @@ I report the list of students under my supervision who have worked on a thesis o
 
 **Abstract:**
 This master's thesis explores the application of Quantum Convolutional Neural Networks (QCNNs) to the task of particle identification in the field of High Energy Physics (HEP). The study investigates the potential advantages offered by QCNNs in handling complex particle identification challenges, leveraging both quantum computing principles and convolutional neural network architectures. Through experimentation and analysis, the thesis aims to shed light on the efficacy and feasibility of integrating quantum computing into particle identification processes, with implications for advancing the capabilities of HEP experiments and detectors.
+---
 
 &nbsp;
 
-
----
 
 ## Akash Sinha (MSc)
 - **Duration:** September 2022 - January 2024
@@ -33,11 +32,9 @@ This master's thesis explores the application of Quantum Convolutional Neural Ne
 
 **Abstract:**
 Collision-free navigation (CFN) for self-driving cars poses a challenging optimization problem, with notable advancements in approximate solutions using deep reinforcement learning. Quantum computing has gained renewed attention, including within the automotive industry. Quantum reinforcement learning (QRL) techniques show promise for faster training, especially in simplified domains. However, these methods have not yet been applied to real-world CFN scenarios and would typically demand an onboard quantum device for testing. This study explores the feasibility and potential advantages of QRL techniques for CFN in the current NISQ era without necessitating an onboard quantum device. This thesis introduces Nav-Q as the first QRL approach for CFN, outlining its functionality without onboard quantum hardware, and presenting a comparative assessment against classical alternatives.
+---
 
 &nbsp;
-
-
----
 
 ## Francesco Aldo Venturelli (MSc)
 - **Duration:** February 2023 - December 2023
@@ -47,10 +44,10 @@ Collision-free navigation (CFN) for self-driving cars poses a challenging optimi
 
 **Abstract:**
 This master's thesis delves into the realm of Quantum Convolutional Neural Networks (QCNNs) and their application to data-efficient image classification tasks. The research explores the potential of QCNNs to significantly enhance the efficiency of image classification models, capitalizing on the synergy between quantum computing principles and convolutional neural network architectures. Through rigorous experimentation and analysis, the thesis aims to demonstrate the advantages of integrating quantum computing techniques into image classification processes, offering promising insights for data-efficient and accurate image recognition systems.
+---
 
 &nbsp;
 
----
 
 ## Lorenzo Cellini (MSc)
 - **Duration:** September 2022 - March 2023
@@ -62,11 +59,10 @@ This master's thesis delves into the realm of Quantum Convolutional Neural Netwo
 This thesis introduces QAL-BP, a novel Quadratic Unconstrained Binary Optimization (QUBO) framework tailored for bin packing, suitable for quantum computation. QAL-BP merges augmented Lagrangian methodology, embedding bin packing constraints in the objective function while analytically estimating penalty multipliers. This yields a versatile model that eliminates instance-dependent Lagrangian coefficients, often needed in other QUBO formulations.
 We evaluate our method on bin-packing instances using a real Quantum Annealing device and compare it with simulated annealing and Gurobi classical solvers. Results validate our formulation's accuracy and showcase quantum computing's potential for the bin-packing problem, as more robust quantum technology emerges.
 As a result of the thesis, a journal paper has been published to *Scientific Reports*.
+---
 
 &nbsp;
 
-
----
 
 ## Supreeth Mysore Venkatesh (MSc)
 - **Duration:** August 2021 - October 2022
@@ -79,10 +75,10 @@ This thesis develops and assesses hybrid quantum-classical algorithms for solvin
 The first algorithm, BILP-Q, offers solutions for general coalitional games and is compatible with gate-based quantum computing and quantum annealing. It surpasses state-of-the-art classical solutions in time/gate complexity.
 The second proposed method, GCS-Q, addresses CSG in Induced Subgraph Games using quantum annealing. GCS-Q excels over current classical and quantum alternatives in runtime.
 Lastly, the third approach, QuACS, follows GCS-Q's strategy but employs gate-based quantum computation.
+---
 
 &nbsp;
 
----
 
 ## Matteo Antonio Inajetovic (MSc)
 - **Duration:** February 2022 - July 2022
@@ -93,11 +89,10 @@ Lastly, the third approach, QuACS, follows GCS-Q's strategy but employs gate-bas
 **Abstract:**
 Activation functions play a crucial role in neural networks since they allow the learning of complex and non-trivial patterns in the data. However, the unitarity constraint of quantum operators forbids non-linearity and poses a considerable obstacle to developing powerful quantum machine learning models. Recently, the idea of the QSplines has been proposed to approximate a non-linear activation function by implementing the quantum version of the spline functions using a fault-tolerant quantum algorithm. This thesis proposes the Variational Quantum Splines, which use hybrid quantum-classical optimization to approximate non-linear activation functions using near-term quantum computing. 
 The idea of Variational QSplines proposed in the thesis has been published as a conference paper.
+---
 
 &nbsp;
 
-
----
 
 ## Filippo Orazi (MSc)
 - **Duration:** September 2021 - March 2022
@@ -107,11 +102,11 @@ The idea of Variational QSplines proposed in the thesis has been published as a 
 
 **Abstract:**
 This thesis extends and implements the generalized version of the quantum Single Layer Perceptron (qSLP) using the Multiple Aggregator Quantum Algorithm. In particular, this work proposes the generalized qSLP to generate an exponentially large number of parametrized linear combinations in superposition that can be learned using quantum-classical optimization. As a consequence, the number of hidden neurons scales exponentially with the number of qubits and, thanks to the universal approximation theorem, our algorithm opens the possibility of approximating any function on quantum computers.  Experiments show that the proposed generalized qSLP outperforms the existing full quantum machine learning model already implemented in the IBM Qiskit framework on standard benchmark datasets.
+---
 
 &nbsp;
 
 
----
 
 ## Nicolò Cangini (MSc)
 - **Duration:** January 2019 - July 2019
