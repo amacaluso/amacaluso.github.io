@@ -178,16 +178,6 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    content:
-      title: PhD Thesis
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     id: featured
     content:
       title: Recent Publications
@@ -202,6 +192,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    content:
+      title: PhD Thesis
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: tag_cloud
     content:
       title: Popular Topics
