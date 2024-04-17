@@ -124,7 +124,7 @@ sections:
           icon: ibm
           organization: IBM
           organization_url: https://www.credly.com/badges/48b2f067-b25a-467f-a9bd-1ea216186496?source=linked_in_profile
-          title: Certified Associate Developer - Quantum Computation using Qiskit
+          title: Certified Associate Developer - Quantum Computation using Qiskit v0.2X
           url: ''
         - certificate_url: https://www.credly.com/badges/f13b0290-a854-4a24-be42-2741c9e0ab00?source=linked_in_profile
           date_end: ''
