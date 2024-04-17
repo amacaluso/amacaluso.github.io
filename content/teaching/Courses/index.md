@@ -4,7 +4,8 @@ date: '2023-02-09'
 summary: List of courses taught at Saarland University and the University of Bologna for Master and Ph.D. students with no prior knowledge of quantum mechanics or quantum computing.
 ---
 
-## Quantum Artificial Intelligence [Cod. 146584]
+## [Quantum Artificial Intelligence](https://www.dfki.de/~klusch/QAI-course-ws23/) 
+- **Cod:** 146584
 - **Institution:** Saarland Informatics Campus, Saarland University, Germany
 - **Duration:** October 2023 - February 2024
 - **Information:** 3 Credit Points, 26 hours, A.Y. 2023-24, Course evaluation
@@ -16,13 +17,15 @@ summary: List of courses taught at Saarland University and the University of Bol
 - **Information:** 3 Credit Points, 15 hours, A.Y. 2023-24, Syllabus
 - **Synopsis:** This course is designed for Ph.D. students with no prior knowledge of quantum computing. It provides a computer science perspective on the quantum algorithms for solving traditional NP-hard problems with a particular focus on AI applications. The course is divided into three parts. Part I introduces the fundamental concepts of gate-based and adiabatic quantum computational models. Part II describes hybrid quantum-classical algorithms, with a focus on machine learning and combinatorial optimization. In part III, the course explores the advantages of utilizing quantum computational methods to address computationally hard AI problems.
 
-## Quantum Artificial Intelligence [Cod. 139530]
+## [Quantum Artificial Intelligence](https://www.dfki.de/~klusch/QAI-course-ws2223/)
+- **Cod:** 139530
 - **Institution:** Saarland Informatics Campus, Saarland University, Germany
 - **Duration:** October 2022 - February 2023
 - **Information:** 3 Credit Points, 26 hours, A.Y. 2022-23, Course evaluation
 - **Synopsis:** This course adopts a computer science perspective on Quantum Artificial Intelligence and consists of two parts. The first part briefly introduces the fundamentals of quantum computation, including gate-based and adiabatic quantum computational models. The second part explores the feasibility and potential advantages of using quantum computational methods to address specific AI problems, emphasizing machine learning and optimization.
 
-## Quantum Machine Learning Seminar [Cod. 136315]
+## [Quantum Machine Learning Seminar](https://www.dfki.de/~klusch/QML-ss22/) 
+- **Cod:** 136315
 - **Institution:** Saarland Informatics Campus, Saarland University, Germany
 - **Duration:** April 2022 - July 2022
 - **Information:** 7 Credit Points, 16 hours, A.Y. 2023-24
