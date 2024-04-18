@@ -77,7 +77,7 @@ sections:
           location: Germany
           date_start: '2021-08-01'
           date_end: '2022-03-31'
-          description: 'My research primarily concentrated on developing and implementing various quantum solutions for specific AI challenges, with applications ranging from collision-free navigation of autonomous vehicles to optimizing flexible production processes in Industry 4.0'
+          description: 'My research primarily concentrated on developing and implementing various quantum solutions for specific AI challenges, with applications ranging from collision-free navigation of autonomous vehicles to optimizing flexible production processes in Industry 4.0.'
         - title: Machine Learning Engineer
           company: Menarini Silicon BioSystem
           company_url: ''
@@ -120,7 +120,7 @@ sections:
         - certificate_url: https://www.credly.com/badges/48b2f067-b25a-467f-a9bd-1ea216186496?source=linked_in_profile
           date_end: ''
           date_start: '2021-12-21'
-          description: 'An IBM Qiskit Developer is an individual who understands fundamental quantum computing concepts and is able to express them using the Qiskit open source software development kit (SDK). They have experience using the Qiskit SDK from the Python programming language to create and execute quantum computing programs on IBM Quantum computers and simulators. This individual is able to perform these tasks with little to no assistance from product'
+          description: 'An IBM Qiskit Developer is an individual who understands fundamental quantum computing concepts and is able to express them using the Qiskit open source software development kit (SDK). They have experience using the Qiskit SDK from the Python programming language to create and execute quantum computing programs on IBM Quantum computers and simulators. This individual is able to perform these tasks with little to no assistance from product.'
           icon: ibm
           organization: IBM
           organization_url: https://www.credly.com/badges/48b2f067-b25a-467f-a9bd-1ea216186496?source=linked_in_profile
