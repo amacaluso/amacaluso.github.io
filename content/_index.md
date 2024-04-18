@@ -101,7 +101,7 @@ sections:
           location: Italy
           date_start: '2016-05-02'
           date_end: '2019-06-30'
-          description: 'Developing and deploying machine learning solutions for predicting university student dropout rates, and monitoring and predicting train faults utilizing HPC infrastructure'
+          description: 'Developing and deploying machine learning solutions for predicting university student dropout rates, and monitoring and predicting train faults utilizing HPC infrastructure.'
     design:
       columns: '2'
   - block: accomplishments
