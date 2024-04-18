@@ -13,5 +13,6 @@ doi: 10.1145/3528416.3530235
 url_pdf: 'https://arxiv.org/pdf/2204.13802.pdf'
 url_code: 'https://github.com/supreethmv/BILP-Q'
 tags:
-- quantum
+- Quantum AI
+- Coalition Game Theory
 ---

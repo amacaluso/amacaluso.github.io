@@ -21,5 +21,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 tags:
-- quantum
+- Quantum Computing
+- Quantum Machine Learning
+- Machine Learning
+- Quantum Neural Networks
 ---

@@ -13,5 +13,8 @@ publication: '*Proceedings of the 21st Italian Conference on Theoretical Compute
 url_pdf: 'https://ceur-ws.org/Vol-2756/paper_14.pdf'
 url_code: 'https://github.com/amacaluso/Quantum-Algorithm-for-Ensemble-Learning'
 tags:
-- quantum
+- Quantum Computing
+- Quantum Machine Learning
+- Supervised Learning
+- Ensemble Methods
 ---

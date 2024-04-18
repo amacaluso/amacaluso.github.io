@@ -14,5 +14,7 @@ doi: 10.48550/arXiv.2311.12875
 url_pdf: 'https://arxiv.org/pdf/2311.12875.pdf'
 url_code: 'https://github.com/roboak/Q-DRL-for-CFN'
 tags:
-- preprint
+- Quantum Computing
+- Quantum AI
+- Reinforcement Learning
 ---

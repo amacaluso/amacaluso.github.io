@@ -20,5 +20,7 @@ publication_types:
 publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/acba0a
 tags:
-- ml
+- Machine Learning
+- Deep Learning
+- Astrophysics
 ---

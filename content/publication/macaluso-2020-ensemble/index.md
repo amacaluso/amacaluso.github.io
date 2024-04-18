@@ -19,5 +19,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 tags:
-- quantum
+- Quantum Computing
+- Quantum Machine Learning
+- Supervised Learning
+- Ensemble Methods
 ---

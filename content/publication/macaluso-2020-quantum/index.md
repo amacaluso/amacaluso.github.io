@@ -14,5 +14,7 @@ doi: 10.1145/3387902.3394032
 url_pdf: 'https://arxiv.org/pdf/2303.05428.pdf'
 url_code: 'https://github.com/amacaluso/Quantum-Splines-for-Non-Linear-Approximations'
 tags:
-- quantum
+- Quantum Computing
+- Quantum Machine Learning
+- Supervised Learning
 ---

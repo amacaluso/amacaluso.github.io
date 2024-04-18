@@ -23,5 +23,6 @@ url_pdf: 'https://www.nature.com/articles/s41597-024-03005-9'
 url_code: 'https://github.com/clissa/fluocells-scientific-data'
 url_data: 'https://amsacta.unibo.it/id/eprint/7347/'
 tags:
-- ml
+- Machine Learning
+- Deep Learning
 ---

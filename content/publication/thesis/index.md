@@ -33,6 +33,7 @@ summary: This dissertation introduces the Multiple Aggregator Quantum Algorithm 
 
 tags:
 - Quantum Computing
+- Quantum Machine Learning
 - Machine Learning
 - Artificial Intelligence
 

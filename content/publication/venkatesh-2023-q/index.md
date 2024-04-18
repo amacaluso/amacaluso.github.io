@@ -15,5 +15,7 @@ doi: 10.48550/arXiv.2311.12912
 url_pdf: 'https://arxiv.org/pdf/2311.12912.pdf'
 url_code: 'https://github.com/supreethmv/Q-Seg'
 tags:
-- preprint
+- Quantum Computing
+- Quantum AI
+- Coalition Game Theory
 ---
