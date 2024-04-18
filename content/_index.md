@@ -223,7 +223,6 @@ sections:
         postcode: '66123'
         country: Germany
         country_code: DE
-        region: Saarland
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '49.256400'
