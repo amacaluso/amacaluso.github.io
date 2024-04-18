@@ -93,7 +93,7 @@ sections:
           location: Italy
           date_start: '2017-11-01'
           date_end: '2020-12-31'
-          description: 'My dissertation focused on the design and implementation of innovative quantum machine learning algorithms. It offered a dual contribution: a comprehensive quantum framework for supervised learning, and an efficient quantum algorithm for approximating non-linear activation functions.'
+          description: 'My dissertation focused on the designing and implementing new quantum machine learning algorithms. It offered a dual contribution: a comprehensive quantum framework for supervised learning, and an efficient quantum algorithm for approximating non-linear activation functions.'
         - title: Data Scientist
           company: Cineca
           company_url: ''
@@ -101,7 +101,7 @@ sections:
           location: Italy
           date_start: '2016-05-02'
           date_end: '2019-06-30'
-          description: 'Developing and deploying machine learning solutions for predicting university student dropout rates (Dissemination article), and monitoring and predicting train faults utilizing HPC infrastructure'
+          description: 'Developing and deploying machine learning solutions for predicting university student dropout rates, and monitoring and predicting train faults utilizing HPC infrastructure'
     design:
       columns: '2'
   - block: accomplishments

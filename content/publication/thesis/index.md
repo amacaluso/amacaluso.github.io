@@ -38,6 +38,7 @@ tags:
 
 # Display this page in the Featured widget?
 featured: true
+date: '2021-05-27'
 
 # Custom links (uncomment lines below)
 # links:
