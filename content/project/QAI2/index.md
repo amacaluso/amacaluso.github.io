@@ -18,7 +18,7 @@ image:
 links:
   - icon: link
     icon_pack: fas
-    name: Follow
+    name: Website
     url: https://qai2.de/
 url_code: ''
 url_pdf: ''

@@ -78,7 +78,7 @@ sections:
           date_start: '2021-08-01'
           date_end: '2022-03-31'
           description: 'My research primarily concentrated on developing and implementing various quantum solutions for specific AI challenges, with applications ranging from collision-free navigation of autonomous vehicles to optimizing flexible production processes in Industry 4.0.'
-        - title: Machine Learning Engineer
+        - title: Machine Learning SW Engineer
           company: Menarini Silicon BioSystem
           company_url: ''
           company_logo: Menarini #org-gc #<img src="DFKI.png" alt="isolated" width="200"/> #org-gc
