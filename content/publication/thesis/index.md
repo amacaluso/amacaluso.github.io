@@ -53,7 +53,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=dyR1yvRjqB4&ab_channel=Universit%C3%A0diBologna'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -78,10 +78,10 @@ projects:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
