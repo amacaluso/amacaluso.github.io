@@ -3,6 +3,7 @@ title: Quantum Computing and Artificial Intelligence - Status and Perspectives
 summary: As international competition escalates, a new white paper published today calls on the EU to invest in combining quantum computing and artificial intelligence to generate economic benefits and strengthen Europe’s position as a prominent global player in emerging deep technologies.
 tags:
   - Quantum Artificial Intelligence
+  - Artificial Intelligence
 
 date: '2025-03-01T00:00:00Z'
 
@@ -32,4 +33,3 @@ url_video: ''
 slides: 
 ---
 
-The Q(AI)2 project aims to leverage quantum algorithms to accelerate the resolution of complex computational tasks, particularly within the automotive industry's context of Industry 4.0. By combining quantum computing with artificial intelligence applications, the project seeks to optimize tasks such as flexible production planning, collision-free maneuver planning for autonomous vehicles, capacitive route planning, and smart mobility services. This initiative's unique approach lies in its focus on concrete tasks relevant to future automotive products, serving as both the starting and ending point of the research. The project's objectives include deepening the understanding of acceleration potential in known algorithms, identifying fundamental applications benefiting from quantum computing, and optimizing algorithm implementation for available hardware and industrial requirements. Successful outcomes could lead to tangible pre-development projects within participating companies and offer German automotive manufacturers significant competitive advantages.
