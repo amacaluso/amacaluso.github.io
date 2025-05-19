@@ -1,14 +1,26 @@
 ---
 title: University Courses - Quantum Computing and Quantum AI 
-date: '2023-02-09'
+date: '2025-02-09'
 summary: List of courses taught at Saarland University and the University of Bologna for Master and Ph.D. students with no prior knowledge of quantum mechanics or quantum computing.
 ---
+
+
+## [Quantum Artificial Intelligence](https://www.dfki.de/~makl01/QAI-course-ws24/) 
+- **Cod:** 153374
+- **Institution:** Saarland Informatics Campus, Saarland University, Germany
+- **Duration:** October 2024 - February 2025
+- **Information:** 3 Credit Points, 26 hours, A.Y. 2024-25
+- **Synopsis:** This course adopts a computer science perspective on Quantum Artificial Intelligence and consists of two parts. The first part briefly introduces the fundamentals of quantum computation, including gate-based and adiabatic quantum computational models. The second part explores the feasibility and potential advantages of using quantum computational methods to address specific AI problems, emphasizing machine learning and optimization.
+
+Please refer to the [official webpage](https://www.dfki.de/~makl01/QAI-course-ws24/) for further information.
+
+
 
 ## [Quantum Artificial Intelligence](https://www.dfki.de/~klusch/QAI-course-ws23/) 
 - **Cod:** 146584
 - **Institution:** Saarland Informatics Campus, Saarland University, Germany
 - **Duration:** October 2023 - February 2024
-- **Information:** 3 Credit Points, 26 hours, A.Y. 2023-24, Course evaluation
+- **Information:** 3 Credit Points, 26 hours, A.Y. 2023-24
 - **Synopsis:** This course adopts a computer science perspective on Quantum Artificial Intelligence and consists of two parts. The first part briefly introduces the fundamentals of quantum computation, including gate-based and adiabatic quantum computational models. The second part explores the feasibility and potential advantages of using quantum computational methods to address specific AI problems, emphasizing machine learning and optimization.
 
 Please refer to the [official webpage](https://www.dfki.de/~klusch/QAI-course-ws23/) for further information.
