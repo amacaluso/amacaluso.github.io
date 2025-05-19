@@ -10,7 +10,7 @@ authors:
 - V Fontana
 - E Mignosi
 - P Cataldo
-- \textbfA \textbfMacaluso
+- A Macaluso
 - M Gómez-López
 - ' others'
 date: '2024-01-01'

@@ -1,7 +1,7 @@
 ---
 title: An efficient quantum algorithm for ensemble classification using bagging
 authors:
-- \textbfAntonio \textbfMacaluso
+- Antonio Macaluso
 - Luca Clissa
 - Stefano Lodi
 - Claudio Sartori
