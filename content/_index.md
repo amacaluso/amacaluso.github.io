@@ -105,16 +105,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
-    content:
-      title: PhD Thesis
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: experience
     content:
       title: Experience
