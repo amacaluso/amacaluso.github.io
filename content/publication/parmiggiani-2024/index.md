@@ -9,7 +9,7 @@ authors:
 - A. Di Piano
 - R. Falco
 - V. Fioretti
-- \textbfA. \textbfMacaluso
+- A. Macaluso
 - G. Panebianco
 - A. Ursi
 - C. Pittori

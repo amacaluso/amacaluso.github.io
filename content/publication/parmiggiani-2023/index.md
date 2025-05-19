@@ -5,7 +5,7 @@ authors:
 - N. Parmiggiani
 - A. Bulgarelli
 - A. Ursi
-- \textbfA. \textbfMacaluso
+- A. Macaluso
 - A. Di Piano
 - V. Fioretti
 - A. Aboudan
