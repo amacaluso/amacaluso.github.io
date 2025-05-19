@@ -1,0 +1,12 @@
+---
+title: A Novel Framework for Quantum Machine Learning
+authors:
+- Antonio Macaluso
+date: '2021-05-01'
+publishDate: '2025-05-19T14:34:16.458525Z'
+publication_types:
+- thesis
+doi: 10.48676/unibo/amsdottorato/9791
+tags:
+- 2021 quantum
+---
