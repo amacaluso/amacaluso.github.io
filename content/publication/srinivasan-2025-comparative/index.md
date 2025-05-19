@@ -12,7 +12,7 @@ publishDate: '2025-05-19T14:46:52.763765Z'
 publication_types:
 - article-journal
 publication: '*tm-Technisches Messen*'
-doi: doi.org/10.1515/teme-2025-0017
+doi: 10.1515/teme-2025-0017
 tags:
 - 2025 quantum
 ---
