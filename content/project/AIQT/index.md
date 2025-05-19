@@ -8,10 +8,6 @@ date: '2019-10-24T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://qt.eu/news/2025/2025-03-20_leading-scientists-urge-eu-to-invest-in-combining-ai-and-quantum-to-strengthen-competitiveness'
 
-image:
-  #caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 links:
   - icon: file-alt
     icon_pack: far
