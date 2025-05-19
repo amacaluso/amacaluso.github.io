@@ -1,9 +1,8 @@
 ---
 title: Quantum Computing and Artificial Intelligence: Status and Perspectives
-summary: As international competition escalates, a new white paper published today calls on the EU to invest in combining quantum computing and artificial intelligence to generate economic benefits and strengthen Europe’s position as a prominent global player in emerging deep technologies.
+summary: Machine learning can help universities by predicting which students are at risk of dropping out, allowing institutions to take proactive measures to address this issue, which has serious economic and social consequences in Italy.
 tags:
-  - Quantum Artificial Intlligence
-  - Artificial Intelligence
+  - Machine Learning
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.agendadigitale.eu/scuola-digitale/il-machine-learning-contro-labbandono-universitario-ecco-come-funziona/'
