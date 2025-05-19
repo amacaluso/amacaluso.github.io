@@ -3,7 +3,7 @@ title: Quantum Annealing-Based Algorithm for Efficient Coalition Formation Among
   Satellites
 authors:
 - Supreeth Mysore Venkatesh
-- \textbfAntonio \textbfMacaluso
+- Antonio Macaluso
 - Marlon Nuske
 - Matthias Klusch
 - Andreas Dengel
