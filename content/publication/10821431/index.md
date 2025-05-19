@@ -2,7 +2,7 @@
 title: Qubit-Efficient Variational Quantum Algorithms for Image Segmentation
 authors:
 - Supreeth Mysore Venkatesh
-- \textbfAntonio \textbfMacaluso
+- Antonio Macaluso
 - Marlon Nuske
 - Matthias Klusch
 - Andreas Dengel
