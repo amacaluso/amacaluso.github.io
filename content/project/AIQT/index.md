@@ -5,7 +5,7 @@ tags:
   - Quantum Artificial Intelligence
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.agendadigitale.eu/scuola-digitale/il-machine-learning-contro-labbandono-universitario-ecco-come-funziona/'
+external_link: 'https://qt.eu/news/2025/2025-03-20_leading-scientists-urge-eu-to-invest-in-combining-ai-and-quantum-to-strengthen-competitiveness'
 
 image:
   #caption: Photo by rawpixel on Unsplash
@@ -15,7 +15,7 @@ links:
   - icon: file-alt
     icon_pack: far
     name: Original Article
-    url: https://www.agendadigitale.eu/scuola-digitale/il-machine-learning-contro-labbandono-universitario-ecco-come-funziona/
+    url: https://qt.eu/media/pdf/Artificial_Intelligence_and_Quantum_Computing_white_paper.pdf?m=1741951963&
 url_code: ''
 url_pdf: ''
 url_slides: ''
