@@ -13,5 +13,5 @@ publication_types:
 publication: '*KI-Künstliche Intelligenz*'
 doi: 10.1007/s13218-024-00871-8
 tags:
-- 2025 quantum
+- Quantum AI
 ---

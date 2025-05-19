@@ -11,5 +11,8 @@ publication_types:
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-023-50540-3
 tags:
-- 2024 quantum
+- Quantum Optimization
+- Quantum Computing
+- Quantum Artificial Intelligence
+- Bin Packing
 ---

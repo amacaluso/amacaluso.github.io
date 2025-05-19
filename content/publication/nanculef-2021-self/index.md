@@ -14,5 +14,6 @@ publication: '*Progress in Pattern Recognition, Image Analysis, Computer Vision,
   Applications: 25th Iberoamerican Congress, CIARP 2021, Porto, Portugal*'
 doi: 10.1007/978-3-030-93420-0_25
 tags:
-- 2021 ml
+- Machine Learning
+- Neural Networks
 ---

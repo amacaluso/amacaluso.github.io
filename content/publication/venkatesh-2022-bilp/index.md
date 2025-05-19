@@ -11,5 +11,8 @@ publication_types:
 publication: '*Proceedings of the 19th ACM International Conference on Computing Frontiers*'
 doi: 10.1145/3528416.3530235
 tags:
-- 2022 quantum
+- Quantum Computing
+- Quantum AI
+- Coalition Game Theory
+- Quantum Optimization
 ---

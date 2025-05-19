@@ -15,4 +15,5 @@ tags:
 - Quantum Computing
 - Quantum AI
 - Coalition Game Theory
+- Quantum Optimization
 ---

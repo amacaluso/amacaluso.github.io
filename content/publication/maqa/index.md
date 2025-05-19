@@ -12,5 +12,8 @@ publication_types:
 publication: '*Quantum Information Processing*'
 doi: 10.1007/s11128-023-03901-w
 tags:
-- 2023 quantum
+- Quantum ML
+- Neural Networks
+- Quantum Neural Networks
+- Ensemble Learning
 ---

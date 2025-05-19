@@ -12,5 +12,6 @@ publication_types:
 publication: '*Quantum Machine Intelligence*'
 doi: 10.1007/s42484-024-00226-4
 tags:
-- 2025 quantum
+- Quantum Reinforcement Learning
+-Quantum AI
 ---

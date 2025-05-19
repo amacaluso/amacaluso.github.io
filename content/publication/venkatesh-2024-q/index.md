@@ -13,5 +13,7 @@ publication_types:
 publication: '*IEEE Computer Graphics and Applications*'
 doi: 10.1109/MCG.2024.3455012
 tags:
-- 2024 quantum
+- Quantum Computing
+- Image Segmentation
+- Quantum Optimization
 ---

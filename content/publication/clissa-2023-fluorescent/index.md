@@ -20,5 +20,5 @@ publication_types:
 publication: '*Scientific Data*'
 doi: 10.1038/s41597-024-03005-9
 tags:
-- 2024 ml
+- Deep Learning
 ---

@@ -12,5 +12,5 @@ publication_types:
 publication: '*International Conference on Image Analysis and Processing*'
 doi: 10.1007/978-3-031-51023-6_16
 tags:
-- 2023 ml
+- Deep Learning
 ---

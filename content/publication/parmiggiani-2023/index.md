@@ -37,5 +37,5 @@ abstract: Astro-rivelatore Gamma a Immagini Leggero (AGILE) is a space mission l
   catalog. The results confirm the model’s capabilities to detect GRBs in the ACS
   data. We will implement this method in the AGILE real-time analysis pipeline.
 tags:
-- 2023 ml
+- Deep Learning
 ---

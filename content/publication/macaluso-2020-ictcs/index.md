@@ -11,5 +11,6 @@ publication_types:
 publication: '*Proceedings of the 21st Italian Conference on Theoretical Computer
   Science*'
 tags:
-- 2020 quantum
+- Quantum ML
+- Ensemble Learning
 ---

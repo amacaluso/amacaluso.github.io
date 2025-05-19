@@ -9,5 +9,8 @@ publication_types:
 publication: '*KI-Künstliche Intelligenz*'
 doi: 10.1007/s13218-024-00856-7
 tags:
-- 2024 quantum
+- Quantum ML
+- Neural Networks
+- Quantum Neural Networks
+- Ensemble Learning
 ---

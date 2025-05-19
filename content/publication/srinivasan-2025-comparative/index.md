@@ -14,5 +14,6 @@ publication_types:
 publication: '*tm-Technisches Messen*'
 doi: 10.1515/teme-2025-0017
 tags:
-- 2025 quantum
+- Quantum Optiimization
+- Image Segmentation
 ---

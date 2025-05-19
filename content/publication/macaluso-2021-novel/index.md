@@ -8,5 +8,8 @@ publication_types:
 - thesis
 doi: 10.48676/unibo/amsdottorato/9791
 tags:
-- 2021 quantum
+- Quantum ML
+- Neural Networks
+- Quantum Neural Networks
+- Ensemble Learning
 ---

@@ -13,5 +13,5 @@ publication_types:
 publication: '*Computational Science -- ICCS 2023*'
 doi: 10.1007/978-3-031-36030-5_14
 tags:
-- 2023 quantum
+- Quantum ML
 ---

@@ -12,5 +12,6 @@ publication_types:
 publication: '*IET Quantum Communication*'
 doi: 10.1049/qtc2.12087
 tags:
-- 2024 quantum
+- Quantum ML
+- Ensemble Learning
 ---

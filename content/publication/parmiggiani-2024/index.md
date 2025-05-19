@@ -22,5 +22,5 @@ publication_types:
 publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/ad64cd
 tags:
-- 2024 ml
+- Deep Learning
 ---

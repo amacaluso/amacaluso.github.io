@@ -37,5 +37,5 @@ abstract: The follow-up of external science alerts received from gamma-ray burst
   that the CNN is more effective in detecting GRBs than the Li &amp; Ma method in
   this context and can be implemented into the AGILE-GRID real-time analysis pipeline.
 tags:
-- 2021 ml
+- Deep Learning
 ---

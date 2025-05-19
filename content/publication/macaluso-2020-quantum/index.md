@@ -12,5 +12,6 @@ publication_types:
 publication: '*Proceedings of the 17th ACM International Conference on Computing Frontiers*'
 doi: 10.1145/3387902.3394032
 tags:
-- 2020 quantum
+- Quantum ML
+- Neural Networks
 ---

@@ -14,5 +14,6 @@ publication_types:
 publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2505.02788
 tags:
-- 2025 quantum
+- Quantum Optimization
+- Quantum Computing
 ---

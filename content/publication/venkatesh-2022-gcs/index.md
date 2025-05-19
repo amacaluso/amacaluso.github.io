@@ -11,5 +11,8 @@ publication_types:
 publication: '*International Conference on Computational Science*'
 doi: 10.1007/978-3-031-36030-5_11
 tags:
-- 2023 quantum
+- Quantum Computing
+- Quantum AI
+- Coalition Game Theory
+- Quantum Optimization
 ---

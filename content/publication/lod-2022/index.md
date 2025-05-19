@@ -13,5 +13,7 @@ publication_types:
 publication: '*Machine Learning, Optimization, and Data Science*'
 doi: 10.1007/978-3-031-25891-6_26
 tags:
-- 2022 quantum
+- Quantum ML
+- Neural Networks
+- Quantum Neural Networks
 ---
